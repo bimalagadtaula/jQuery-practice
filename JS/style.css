@@ -1,0 +1,30 @@
+.btn{
+    background-color: yellow;
+    cursor: pointer;
+    padding: 13px 25px;
+   margin-top: 2%;
+   border: 5px solid red;
+   font-size: 16px;
+   font-weight: bolder;
+   border-radius: 4px;
+   margin: 0px 10px;
+
+}
+
+.btn:hover{
+    background-color: red;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    padding: 30px 20px;
+}
